@@ -2,7 +2,7 @@
 .. author: brian mcmahan
 .. date: 1/9/2016
 
-Heroes Academy: Introduction to Python, Winter 2016
+Heroes Academy: Data Structures, Winter 2016
 ===============================================
 
 Course Description
