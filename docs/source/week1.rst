@@ -1,5 +1,5 @@
-Week 1: Offline Sorting
-=======================
+Week 1: Initialization
+======================
 
 .. raw:: html
 
