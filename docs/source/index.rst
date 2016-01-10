@@ -24,7 +24,7 @@ Below and to the left you will find the sections of this document.  Each week th
 __ HeroesSite_
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Getting Started
 
    info
