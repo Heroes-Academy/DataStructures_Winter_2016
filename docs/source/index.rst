@@ -27,7 +27,7 @@ __ HeroesSite_
    :maxdepth: 2
    :caption: Getting Started
 
-   intro
+   info
    installing
    resources
 
