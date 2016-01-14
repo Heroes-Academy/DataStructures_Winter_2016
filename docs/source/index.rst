@@ -2,7 +2,7 @@
 .. author: brian mcmahan
 .. date: 1/9/2016
 
-Heroes Academy: Data Structures, Winter 2016
+HEROES Academy: Data Structures, Winter 2016
 ===============================================
 
 Course Description
@@ -15,7 +15,7 @@ The course will start with looking at the computational concerns Computer Scient
 How to Browse This Document
 ===========================
 
-This document is intended to be a companion to the Data Structures course taught at Heroes Academy.  For more information about Heroes Academy, please visit it `here`__.
+This document is intended to be a companion to the Data Structures course taught at Heroes Academy.  For more information about HEROES Academy, please visit it `here`__.
 
 Below and to the left you will find the sections of this document.  Each week there will be exercises to complete at home, as well as supplementary materials for further understanding and learning.  Data Strutures is a well-studied topic that consists of abstract data structures and their various implementations.  We will cover the broad range of abstract data structures without delving too deeply into any specific implementation.
 
