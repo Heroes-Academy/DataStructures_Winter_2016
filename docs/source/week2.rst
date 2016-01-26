@@ -4,8 +4,7 @@ Week 2: Complexity
 Summary
 ^^^^^^^
 
-To come after the class.
-
+We discussed the basics of complexity and why it matters.  The homework that was assigned in class was to build a basic data structure.  It has the necessary functions that we will be looking at in the coming weeks. 
 
 Homework
 ^^^^^^^^
