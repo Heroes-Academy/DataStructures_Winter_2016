@@ -13,7 +13,7 @@ Read through the lecture in the slides below.  Recursive functions are functions
 have two cases: a base case and the recursive case.  Consider the following:
 
 .. code-block:: python
-
+   :linenos:
     def recursive_add(x):
         if x == 1:
             return 1
