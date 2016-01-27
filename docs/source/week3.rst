@@ -37,7 +37,7 @@ You will have the best luck if you run the following trinket full screen.
 
 .. raw:: html
 
-    <iframe src="https://trinket.io/embed/python/c725e05060" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+    <iframe src="https://trinket.io/embed/python/0e731cdd38" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Lecture Slides
 ^^^^^^^^^^^^^^
