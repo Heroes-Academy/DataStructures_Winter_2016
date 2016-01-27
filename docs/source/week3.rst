@@ -13,11 +13,13 @@ Read through the lecture in the slides below.  Recursive functions are functions
 have two cases: a base case and the recursive case.  Consider the following:
 
 ```python
+
 def recursive_add(x):
     if x == 1:
         return 1
     else:
         return 1 + recursive_add(x-1)
+
 ```
 
 This is a simple and silly example, but it illustrates the point.   Your homework is to write a function like this for the fibonacci series and for factorials:
