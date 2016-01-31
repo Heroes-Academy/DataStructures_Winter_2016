@@ -39,6 +39,22 @@ You will have the best luck if you run the following trinket full screen.
 
     <iframe src="https://trinket.io/embed/python/0e731cdd38" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+.. raw:: html
+
+   <iframe src="https://trinket.io/embed/python/6c939d8315" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe src="https://trinket.io/embed/python/b175bb94fc" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe src="https://trinket.io/embed/python/814e6138f2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe src="https://trinket.io/embed/python/1c38aa544b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 Lecture Slides
 ^^^^^^^^^^^^^^
 
