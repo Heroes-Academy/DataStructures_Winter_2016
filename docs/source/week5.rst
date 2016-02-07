@@ -3,27 +3,32 @@ Week 5: Stacks and Queues
 
 
 Summary
-^^^^^^^
+-------
 
-Please also check Week 4's content because we will be doing some of that and some of this.
-The snowstorm has offset us 0.5 lectures.
+We discussed linked lists, stacks, and queues.  
+We implemented a Linked List class using paired programming. 
 
-This week we will be going over Stacks and Queues.
-
-A further summary will come after the class.
+We also discussed how a linked list could be extended as a queue and stack. 
+Specifically, that a stack is a last-in-first-out implementation and queue is a first-in-first-out implementation.
 
 Homework
-^^^^^^^^
+--------
 
-We will be working on implementing a LinkedList and extending it to a Stack and a Queue.
+I expect you to complete all of the following by next Sunday.
+
+1. Finish your recursive turtle implementation
+2. Finish the recursive solutions homework problems (the last slide of the week 3 slides)
+3. Make the LinkedList doubly linked.
+4. Implement a Stack and a Queue using the LinkedList as a template and base.
+
 
 Extra Resources
-^^^^^^^^^^^^^^^
+---------------
 
 Extra resources will be added here.
 
 Lecture Slides
-^^^^^^^^^^^^^^
+--------------
 
 .. raw:: html
 
