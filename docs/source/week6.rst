@@ -13,8 +13,8 @@ Homework
 
 You will be augmenting the code we had in class:
 
-.. code:: python
-   :linenos:
+.. code-block:: python
+    :linenos:
 
     class Tree:
         def __init__(self, root, left=None, right=None):
