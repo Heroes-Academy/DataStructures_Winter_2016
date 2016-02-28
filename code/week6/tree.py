@@ -27,16 +27,6 @@ class Tree:
         
         return our_list
 
-def stackDFS(atree):
-    stk = deque()
-    stk.append(atree)
-    while len(stk) > 0:
-        cur = stk.pop()
-        print(cur.value)
-        if cur.right is not None:
-            stk.appendleft(cur.right)
-        if cur.left is not None:
-            stk.appendleft(cur.left)
 
 a = Tree('a')
 b = Tree('b')
