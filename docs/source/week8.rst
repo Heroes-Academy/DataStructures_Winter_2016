@@ -24,6 +24,13 @@ Take two of the sort algorithms from the slides and benchmark them.  You should 
   test_numbers = list(range(1,10**10)
   # this shuffles in place; it does not return a copy of test_numbers 
   random.shuffle(test_numbers)
+  
+  import time
+  start_time = time.time()
+  sort_function(test_numbers)
+  total_time = time.time() - start_time
+  
+  print("The algorithm took {} seconds".format(total_time))
     
     
 Option 2
